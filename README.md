@@ -7,4 +7,4 @@
 
 ### CHAPTER I
 * [CONCEITOS REACT](https://github.com/gibifyofficial/challenge01-chapter-I)
-* [COMPONENTIZANDO O APP]('')
+* [COMPONENTIZANDO O APP](https://github.com/gibifyofficial/challenge02-chapter-I)

@@ -10,5 +10,6 @@ Você pode seguir meu perfil e acompanhar a evolução aqui  [Evandro Gibicoski]
 # CHALLENGES
 
 ### CHAPTER I
-* [CONCEITOS REACT](https://github.com/gibifyofficial/challenge01-chapter-I)
-* [COMPONENTIZANDO O APP](https://github.com/gibifyofficial/challenge02-chapter-I)
+* [Conceitos do ReactJS](https://github.com/gibifyofficial/challenge01-chapter-I)
+* [Componentização da Aplicação](https://github.com/gibifyofficial/challenge02-chapter-I)
+* [Hook de carrinhos de Compras](https://github.com/gibifyofficial/challenge01-chapter-II)

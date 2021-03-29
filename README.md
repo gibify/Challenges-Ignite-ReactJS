@@ -13,3 +13,4 @@ Você pode seguir meu perfil e acompanhar a evolução aqui  [Evandro Gibicoski]
 * [Conceitos do ReactJS](https://github.com/gibifyofficial/challenge01-chapter-I)
 * [Componentização da Aplicação](https://github.com/gibifyofficial/challenge02-chapter-I)
 * [Hook de carrinhos de Compras](https://github.com/gibifyofficial/challenge01-chapter-II)
+* [Refatorando Classes e TypeScript](https://github.com/gibifyofficial/challenge02-chapter-II)
